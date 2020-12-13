@@ -74,4 +74,3 @@ jobs:
           name: FriendlyWrt_NanoPi-R2S
           path: ./artifact/   
   
-
